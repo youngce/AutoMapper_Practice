@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper_BookStore_Demo", "AutoMapper_BookStore_Demo\AutoMapper_BookStore_Demo.csproj", "{35C6450B-1578-4372-95FA-009DBCC7AD4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperTest", "AutoMapperTest\AutoMapperTest.csproj", "{F42F86E2-CCCB-4B5D-971D-78E821CBC5C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{35C6450B-1578-4372-95FA-009DBCC7AD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35C6450B-1578-4372-95FA-009DBCC7AD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35C6450B-1578-4372-95FA-009DBCC7AD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42F86E2-CCCB-4B5D-971D-78E821CBC5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42F86E2-CCCB-4B5D-971D-78E821CBC5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42F86E2-CCCB-4B5D-971D-78E821CBC5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42F86E2-CCCB-4B5D-971D-78E821CBC5C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

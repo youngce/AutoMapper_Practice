@@ -1,0 +1,10 @@
+E:\Git\AutoMapper_BookStore_Demo\AutoMapperTest\bin\Debug\AutoMapperTest.exe
+E:\Git\AutoMapper_BookStore_Demo\AutoMapperTest\bin\Debug\AutoMapperTest.pdb
+E:\Git\AutoMapper_BookStore_Demo\AutoMapperTest\bin\Debug\AutoMapper.dll
+E:\Git\AutoMapper_BookStore_Demo\AutoMapperTest\bin\Debug\AutoMapper.Net4.dll
+E:\Git\AutoMapper_BookStore_Demo\AutoMapperTest\bin\Debug\AutoMapper_BookStore_Demo.dll
+E:\Git\AutoMapper_BookStore_Demo\AutoMapperTest\bin\Debug\AutoMapper_BookStore_Demo.pdb
+E:\Git\AutoMapper_BookStore_Demo\AutoMapperTest\bin\Debug\AutoMapper.xml
+E:\Git\AutoMapper_BookStore_Demo\AutoMapperTest\obj\Debug\AutoMapperTest.csprojResolveAssemblyReference.cache
+E:\Git\AutoMapper_BookStore_Demo\AutoMapperTest\obj\Debug\AutoMapperTest.exe
+E:\Git\AutoMapper_BookStore_Demo\AutoMapperTest\obj\Debug\AutoMapperTest.pdb
