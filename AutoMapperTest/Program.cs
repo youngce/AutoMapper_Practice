@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using AutoMapper;
 using AutoMapper_BookStore_Demo;
 
 namespace AutoMapperTest
@@ -10,7 +11,13 @@ namespace AutoMapperTest
     {
         static void Main(string[] args)
         {
-            var mapper = AutoMapper.Mapper.Map<AddressDto, Address>(new AddressDto());
+            Mapper.CreateMap<AddressDto, Address>();
+            var mapper = AutoMapper.Mapper.Map<AddressDto, Address>(new AddressDto
+                                                                    {
+                                                                        Country = "Taiwan",
+                                                                        Street = "a street"
+
+                                                                    });
            
         }
     }
